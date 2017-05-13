@@ -4,7 +4,7 @@ We have implemented and done research on our project " Comparison of Cache Repla
 
 This git repository contains only main files which are used in the project, if you want to download the simulator you can follow the steps for download and install on - http://www.gem5.org/Download
 
-If you want to more about the project you can visit  - https://bhagyashreeborate.wordpress.com/acaproject/
+If you want to know more about the project you can visit  - https://bhagyashreeborate.wordpress.com/acaproject/
 
 1. The Cache replacement Algorithms folder has all main algorithm files which are used to major the Cache performance for specific Algorithm - LRU, RR or FIFO.
 
