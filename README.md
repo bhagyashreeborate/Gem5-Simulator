@@ -12,4 +12,5 @@ If you want to know more about the project you can visit  - https://bhagyashreeb
 
 3. gem5 config files - These are the main configuration files used to run the simulator with required parameters.
 
+4. stats_parser.py - This is a PYTHON PARSER. Using this parser we have calculated the miss rates for multiple cases like, different associativity, block size, etc. rather than manually calculating and plotting it. 
 Every folder has its own readme file to explain in more details.
